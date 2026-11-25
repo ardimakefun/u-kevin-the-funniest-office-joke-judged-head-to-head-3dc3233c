@@ -1,0 +1,1 @@
+{"description":"The Funniest Office Joke — one original one-line office joke for make.fun","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"u-kevin-the-funniest-office-joke","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
